@@ -75,3 +75,13 @@ ORBIT is a modern iOS productivity app that combines focus timer functionality w
 - [ ] Shared focus sessions
 - [ ] Advanced statistics
 - [ ] Calendar integration
+
+## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/795fb6d43cbc40c981ba7fba3ad9baf9">
+    </a>
+    <a href="https://www.loom.com/share/795fb6d43cbc40c981ba7fba3ad9baf9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/795fb6d43cbc40c981ba7fba3ad9baf9-50a9b37f95bde6d2-full-play.gif">
+    </a>
+  </div>

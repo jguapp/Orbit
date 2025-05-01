@@ -1,9 +1,5 @@
 # ORBIT - Your Productivity Universe 🚀
 
-<p align="center">
-  <img src="Screenshots/orbit-logo.png" width="200" alt="ORBIT Logo"/>
-</p>
-
 ORBIT is a modern iOS productivity app that combines focus timer functionality with task management, helping you stay organized and productive while maintaining a delightful user experience.
 
 ## ✨ Features
@@ -49,14 +45,6 @@ ORBIT is a modern iOS productivity app that combines focus timer functionality w
 - Customizable timer durations
 - Notification preferences
 - Sound and haptic settings
-
-## 🎨 Screenshots
-
-<p align="center">
-  <img src="Screenshots/timer.png" width="200" alt="Timer Screen"/>
-  <img src="Screenshots/tasks.png" width="200" alt="Tasks Screen"/>
-  <img src="Screenshots/stats.png" width="200" alt="Statistics Screen"/>
-</p>
 
 ## 📱 Usage
 
